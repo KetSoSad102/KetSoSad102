@@ -1,5 +1,5 @@
 # Introduction
 
 Hello, I am a **noob digital forensics** and **CTF player**.
-Now I studying abuout **information security** at **University of Information and Technology - VNUHCM**
+Now I studying abuout **information security** at **University of Information and Technology - VNUHCM**.
 This is where I keep notes and track my journey from noob to better.
